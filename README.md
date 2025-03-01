@@ -46,7 +46,7 @@ Discount => Discount provided.
 
 Profit => Profit/Loss incurred.
 
-### Project Questions
+## Project Questions
 
 - What is the trend of sales by year?
 - What is the total sales by category?
@@ -68,3 +68,11 @@ Profit => Profit/Loss incurred.
 
 #### Page 2
 
+![Image](https://github.com/user-attachments/assets/03745607-fc3f-4e7a-b1c8-eceaa8bcbb69)
+
+
+## Summary/Inferences
+- ﻿Total Sales trended down, resulting in a 11.85% decrease between 2014 and 2017.
+- At $40,979.10, California had the highest Sales and was 409.12% higher than Colorado, which had the lowest of the top 10 Sales at $8,049.09.
+- California accounted for 22.71% of total Sales.
+- ﻿Across all top 10 States, total Sales ranged from $8,049.09 to #40,979.10.
