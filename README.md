@@ -52,3 +52,12 @@ Profit => Profit/Loss incurred.
 - What is the total sales by category?
 - What states had the highest sales?
 - What region had the highest profit?
+
+## Skills Demonstrated
+- DAX
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
